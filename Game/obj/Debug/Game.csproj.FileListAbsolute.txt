@@ -12,3 +12,16 @@ E:\Admin\Pulpit\Game\Game\obj\Debug\Game.Leaderboards.resources
 E:\Admin\Pulpit\Game\Game\Game.exe.config
 E:\Admin\Pulpit\Game\Game\Game.exe
 E:\Admin\Pulpit\Game\Game\Game.pdb
+E:\Admin\Pulpit\Programowanie\C#\Space Shooter\Game\obj\Debug\Game.csprojAssemblyReference.cache
+E:\Admin\Pulpit\Programowanie\C#\Space Shooter\Game\obj\Debug\Game.Leaderboards.resources
+E:\Admin\Pulpit\Programowanie\C#\Space Shooter\Game\obj\Debug\Game.Menu.resources
+E:\Admin\Pulpit\Programowanie\C#\Space Shooter\Game\obj\Debug\Game.Options.resources
+E:\Admin\Pulpit\Programowanie\C#\Space Shooter\Game\obj\Debug\Game.Play.resources
+E:\Admin\Pulpit\Programowanie\C#\Space Shooter\Game\obj\Debug\Game.Properties.Resources.resources
+E:\Admin\Pulpit\Programowanie\C#\Space Shooter\Game\obj\Debug\Game.csproj.GenerateResource.cache
+E:\Admin\Pulpit\Programowanie\C#\Space Shooter\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+E:\Admin\Pulpit\Programowanie\C#\Space Shooter\Game\Game.exe.config
+E:\Admin\Pulpit\Programowanie\C#\Space Shooter\Game\obj\Debug\Game.exe
+E:\Admin\Pulpit\Programowanie\C#\Space Shooter\Game\obj\Debug\Game.pdb
+E:\Admin\Pulpit\Programowanie\C#\Space Shooter\Game\Game.exe
+E:\Admin\Pulpit\Programowanie\C#\Space Shooter\Game\Game.pdb
